@@ -1,0 +1,10 @@
+1. traduire tout l'ancien code où j'utilisais Qt		OK
+2. display pleins de cubes pour faire une scène sympa	OK
+3. des lights sympas pour faire du shadowmap			OK
+4. shadowmapping                                        OK (avec un ptit bug du sol)
+5. microfacettes                                        KO (marche pas + abandon)
+6. faire un mesh intéressant à animer (genre un boudin) OK
+6bis. ou alors charger des squelettes avec assimp       
+7. créer classe bone + calculer les poids               à moitié OK
+8. animer les bones                                
+9. paralléliser avec le GPU

@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -pedantic  -rdynamic CMakeFiles/IG_project.dir/src/camera.cpp.o CMakeFiles/IG_project.dir/src/main.cpp.o CMakeFiles/IG_project.dir/src/shader.cpp.o CMakeFiles/IG_project.dir/lib/glad/src/glad.c.o  -o ../bin/IG_project  -lOpenGL -lGLX lib/glfw-3.3.8/src/libglfw3.a -lrt -lm -ldl -lX11 -lpthread 
