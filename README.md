@@ -62,6 +62,8 @@ Avant de commencer le shadowmapping, je me suis dit qu'il fallait ajouter un sol
 Petite vidéo pour montrer mon shadowmapping mais surtout le bug de texture au sol, qui ne prend pas en compte les ombres : 
 https://youtu.be/o3bEpthMxlM
 
+Je m'excuse par ailleurs pour la qualité de la vidéo, youtube a fait des siennes visiblement mais je n'arrive pas à faire de vidéo assez 
+
 ### Animation
 
 Depuis le début je voulais faire du skinning donc à partir du cours que l'on a eu mercredi 8 mars, je n'ai travaillé que sur cela dans ce projet en parallèle des projets des autres UEs.
@@ -134,6 +136,7 @@ Cela ne sert pas à grand chose mais je souhaitais juste mentionner la partie mi
 
 
 ## Conclusion
+
 
 Sur tous les objectifs que je m'étais fixés, deux n'ont pas marché (microfacettes et animation) et un a un bug (shadowmapping) donc je suis globalement déçu du résultat et de ce que je peux montrer. Je suis cependant très satisfait de ce que j'ai appris, il n'y a que la partie sur les framebuffer que je n'ai pas totalement compris ainsi que les microfacettes où j'ai beaucoup pataugé. Tout le reste a bien été assimilé selon moi et la liberté offerte par ce projet m'a permi d'explorer ce qui me plaisait selon mes envies sur le moment.
 
