@@ -62,7 +62,7 @@ Avant de commencer le shadowmapping, je me suis dit qu'il fallait ajouter un sol
 Petite vidéo pour montrer mon shadowmapping mais surtout le bug de texture au sol, qui ne prend pas en compte les ombres : 
 https://youtu.be/o3bEpthMxlM
 
-Je m'excuse par ailleurs pour la qualité de la vidéo, youtube a fait des siennes visiblement mais je n'arrive pas à faire de vidéo assez 
+Je m'excuse par ailleurs pour la qualité de la vidéo, youtube a fait des siennes visiblement.
 
 ### Animation
 
